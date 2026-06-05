@@ -3,3 +3,4 @@ dist/
 build/
 .env
 .vscode/
+vscode-extension/codereviewassistant/node_modules/
